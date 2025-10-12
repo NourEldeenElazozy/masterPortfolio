@@ -88,8 +88,8 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "تطوير تطبيقات الجوال بـ Flutter",
-      fileName: "FlutterImg",
+      title: "Flutterتطوير تطبيقات الجوال بـ ",
+      fileName: "DataScienceImg",
       skills: [
         "⚡ بناء تطبيقات جوال تفاعلية لنظامي Android و iOS باستخدام Flutter",
         "⚡ دمج التطبيقات مع قواعد البيانات وواجهات برمجة التطبيقات (APIs)",
@@ -112,8 +112,8 @@ const skills = {
       ],
     },
     {
-      title: "تطوير الويب بـ Laravel",
-      fileName: "LaravelImg",
+      title: "Laravelتطوير الويب بـ ",
+      fileName: "FullStackImg",
       skills: [
         "⚡ إنشاء تطبيقات ويب ديناميكية باستخدام Laravel و PHP",
         "⚡ تصميم قواعد البيانات باستخدام MySQL و PostgreSQL",
@@ -150,7 +150,7 @@ const skills = {
     },
     {
       title: "إدارة المشاريع والبنية التحتية",
-      fileName: "ProjectInfraImg",
+      fileName: "CloudInfraImg",
       skills: [
         "⚡ إعداد ونشر المشاريع على السيرفرات المحلية والسحابية",
         "⚡ إدارة المشاريع ومتابعة المهام باستخدام أدوات Agile و Scrum",
@@ -179,7 +179,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:googlecloud",
           style: { color: "#4285F4" },
         },
-        { skillName: "Linux Server", imageSrc: "linux_server.png" },
       ],
     },
   ],
